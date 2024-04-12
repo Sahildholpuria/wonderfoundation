@@ -83,7 +83,7 @@ function App() {
       </Form.Group>
       
       <Button variant="primary" type="submit">
-        Submit
+        Registration
       </Button>
     </Form>
     </Container>
