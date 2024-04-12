@@ -68,7 +68,7 @@ function App() {
 
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Alternate No.</Form.Label>
-        <Form.Control type="number" placeholder="Enter WhatsApp No" />
+        <Form.Control type="number" placeholder="Enter Alternate No." />
       </Form.Group>
 
       <Form.Group className="mb-3" controlId="formBasicEmail">
