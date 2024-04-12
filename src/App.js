@@ -5,7 +5,8 @@ import { Container,Form,Button } from 'react-bootstrap';
 
 function App() {
   return (
-    <Container fluid="md">
+    <Container className='p-5'>
+      <h1>Registration Form</h1>
       <Form>
       <Form.Label>Partner Name</Form.Label>
       <Form.Select aria-label="Default select example">
