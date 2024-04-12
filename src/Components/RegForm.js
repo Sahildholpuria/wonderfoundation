@@ -1,5 +1,8 @@
 import React from 'react'
 
+import { Container,Form,Button } from 'react-bootstrap';
+
+
 export default function RegForm() {
   return (
     <Container className='p-5'>
